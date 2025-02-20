@@ -15,7 +15,9 @@ Born in **2002**, I am an **Italian**
   - Focus Areas: **Machine Learning, Deep Learning, Financial AI Applications**  
 - **Bachelor’s in Industrial Production Engineering**  
   - **Politecnico di Milano**  
-  - Focus Areas: **Industrial processes, Automation, Data-driven manufacturing**  
+  - Focus Areas: **Industrial processes, Automation, Data-driven manufacturing**
+### 📚 Academic Projects  
+Here’s all my academic projects: [University Projects Repository](https://github.com/AlessioDLuca/university-projects)  
 
 ---
 
@@ -32,4 +34,6 @@ When I’m not working on AI projects, you’ll find me:
 - **Relaxing by the lake**, enjoying nature and unwinding.  
 
 ---
+
+
 
