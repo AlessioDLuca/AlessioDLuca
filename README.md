@@ -5,8 +5,6 @@ Born in **2002**, I am an **Italian** aspiring **AI specialist** currently pursu
 
 Currently, I am interning at **UniCredit**, gaining hands-on experience in **AI-driven financial solutions, MLOps, and Generative AI**. My goal is to bridge the gap between **AI research and real-world applications**, particularly in the financial sector.
 
-Born in **2002**, I am an **Italian** 
-
 ---
 
 ## 🎓 Education  
