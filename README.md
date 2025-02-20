@@ -1,11 +1,11 @@
 # 👨‍🎓 About Me - Alessio De Luca  
 
 ## 🌟 Overview  
-I am an aspiring **AI specialist** currently pursuing a **Master’s degree in Artificial Intelligence for Science and Technology**. Passionate about **quantitative research, machine learning, and AI applications in finance**, I am constantly expanding my expertise in these areas.
+Born in **2002**, I am an **Italian** aspiring **AI specialist** currently pursuing a **Master’s degree in Artificial Intelligence for Science and Technology**. Passionate about **quantitative research, machine learning, and AI applications in finance**, I am constantly expanding my expertise in these areas.
 
 Currently, I am interning at **UniCredit**, gaining hands-on experience in **AI-driven financial solutions, MLOps, and Generative AI**. My goal is to bridge the gap between **AI research and real-world applications**, particularly in the financial sector.
 
-Born in **2002**, I am an **Italian** professional with a strong foundation in **engineering and AI-driven innovation**.
+Born in **2002**, I am an **Italian** 
 
 ---
 
