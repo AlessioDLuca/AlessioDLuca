@@ -34,6 +34,6 @@ When I’m not working on AI projects, you’ll find me:
 - **Relaxing by the lake**, enjoying nature and unwinding.  
 
 ---
-You can contact me at: [E-Mail](deluca.alessio@outlook.it)
+You can contact me at: deluca.alessio@outlook.it
 
 
